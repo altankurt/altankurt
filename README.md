@@ -7,10 +7,10 @@ Throughout my journey, I discovered my passion for open source and the power of 
 
 ## 🧑‍💻 About me
 
-🌱 I’m currently learning React
-💬 Ask me about web development and making a career change
-📄 Know about my experiences https://www.linkedin.com/in/altankurt/
-📫 aaltankurt@gmail.com
+- 🌱 I’m currently learning React
+- 🧑‍💻 All of my projects are available in my [GitHub Account](https://github.com/altankurt?tab=repositories)
+- 💬 Ask me about web development and making a career change
+- 📫 aaltankurt@gmail.com
 
 ### ⚡ Communities I contribute
 
