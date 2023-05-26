@@ -3,6 +3,7 @@
 Hello, this is Altan Kurt.
 
 I have always had an insatiable appetite for learning and constantly strive to improve myself. With a strong desire to embrace new challenges, I have completed an exciting career transition.
+
 Throughout my journey, I discovered my passion for open source and the power of collaborative development. I find great satisfaction in actively contributing to the open source ecosystem, interacting with various projects and communities.
 
 
