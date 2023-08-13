@@ -18,7 +18,7 @@ Throughout my journey, I discovered my passion for open source and the power of 
 ## ⚡ Communities I contribute
 
 - [Frontendship](https://github.com/frontendship)
-- [Açık Yazılım Ağı](https://github.com/acikkaynak)
+- [Açık Kaynak İnisiyatifi](https://github.com/acikkaynak)
 - [kamp.us](https://github.com/kamp-us)
 
 
