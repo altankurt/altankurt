@@ -12,7 +12,7 @@ Throughout my journey, I discovered my passion for open source and the power of 
 - 🌱 I’m currently learning React
 - 📝  I regularly write articles on [My Medium Page](https://altankurt.medium.com) 
 - 💬 Ask me about web development and making a career change
-- 📫 How to reach me **aaltankurt@gmail.com**
+- 📫 How to reach me **hello@altankurt.dev**
 
 
 ### ⚡ Communities I contribute
