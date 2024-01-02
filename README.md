@@ -4,7 +4,7 @@ I have always had an appetite for learning, so I constantly strive to improve my
 
 Throughout my journey I have discovered my passion for software development and the power of collaborative development. I find great satisfaction in contributing to the open source ecosystem and interacting with various projects and communities.
 
-- 🧑‍💻 I'm currently working at [Epigra](https://epigra.com/).
-- 🎯 Frontend technologies interest me.
-- ✨ I focus on React, Next.js, TypeScript and Tailwind CSS technologies.
+- 🧑‍💻 I'm currently working at [Epigra](https://epigra.com/)
+- 🎯 Frontend technologies interest me
+- ✨ I focus on React, Next.js, TypeScript and Tailwind CSS technologies
 - 📫 Reach me on [Website](https://altankurt.dev) or [LinkedIn](https://www.linkedin.com/in/altankurt)
